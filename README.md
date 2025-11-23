@@ -116,9 +116,3 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 </p>
 
 ---
-
-**Want me to:**
-- Replace the inline SVG with a custom brand-color SVG containing your photo/icon? (I can generate and give you the file.)  
-- Fill in the exact project links, add repo descriptions, and produce the final pinned repo list for you?  
-
-If yes, I’ll produce them right away — I already have the resume details and can populate project-specific blurbs and badges.
