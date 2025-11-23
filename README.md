@@ -27,31 +27,6 @@
         <feBlend in="SourceGraphic" in2="b" mode="normal"/>
       </filter>
     </defs>
-
-    <!-- background rounded rect with gradient -->
-    <rect x="10" y="10" rx="18" ry="18" width="800" height="140" fill="url(#g1)" opacity="0.14" />
-
-    <!-- main content -->
-    <g font-family="Inter, Roboto, Arial, sans-serif">
-      <text x="40" y="62" fill="#0f172a" font-size="28" font-weight="700">Asit Mondal</text>
-      <text x="40" y="96" fill="#0f172a" font-size="16" font-weight="500">Full-Stack Developer • React.js • Node.js • MongoDB • Docker</text>
-
-      <!-- animated role chip -->
-      <rect x="40" y="108" rx="10" ry="10" width="240" height="28" fill="#0f172a" opacity="0.06"/>
-      <text x="50" y="127" fill="#0f172a" font-size="13">Building scalable web apps & AI-enabled features</text>
-
-      <!-- small animated dots -->
-      <g>
-        <circle cx="700" cy="52" r="6" fill="#fff" opacity="0.9">
-          <animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite" />
-          <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2s" repeatCount="indefinite" />
-        </circle>
-        <circle cx="730" cy="92" r="5" fill="#fff" opacity="0.7">
-          <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite" />
-          <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.4s" repeatCount="indefinite" />
-        </circle>
-      </g>
-    </g>
   </svg>
 </div>
 
@@ -70,7 +45,7 @@
 
 ## 🔭 About Me
 
-Full-Stack Developer focused on building **production-ready** MERN applications, containerized systems with Docker, and AI-assisted tools (Qdrant vector search). Details taken from my resume. :contentReference[oaicite:0]{index=0}
+Full-Stack Developer focused on building **production-ready** MERN applications, containerized systems with Docker, and AI-assisted tools (Qdrant vector search). 
 
 ---
 
