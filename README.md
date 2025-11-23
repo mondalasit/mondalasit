@@ -117,21 +117,6 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 
 ---
 
-## ✅ How to finish setup (quick checklist)
-
-1. Create repository named exactly: `Asitmondal2002` (same as your GitHub username).  
-2. Paste this `README.md` into that repo's root.  
-3. Replace the `PROJECT_LINK_HERE` placeholders with your project repo links.  
-4. Optionally: upload a `banner.svg` to the repo and replace the inline SVG if you prefer an external image. (I used an inline SVG so no upload is required.)  
-5. Pin your top 6 repos in your profile (the projects above) for a clean first impression.
-
----
-
-### Notes & sources
-Resume used to create the README content: `/mnt/data/Resume_Asit_Mondal_1year.pdf`. :contentReference[oaicite:1]{index=1}
-
----
-
 **Want me to:**
 - Replace the inline SVG with a custom brand-color SVG containing your photo/icon? (I can generate and give you the file.)  
 - Fill in the exact project links, add repo descriptions, and produce the final pinned repo list for you?  
