@@ -76,8 +76,6 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 
 ## 📌 Featured Projects
 
-> Replace `PROJECT_LINK_HERE` with the repo URL you want to pin / link.
-
 - **MERN E-Commerce Platform** — Role-based access, JWT auth, real-time order tracking, admin & super-admin features.  
   Repo: [github.com/USERNAME/MERN-Ecommerce](PROJECT_LINK_HERE) — *React, Node.js, MongoDB, Docker*
 
