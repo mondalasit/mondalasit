@@ -1,16 +1,164 @@
-## Hi there 👋
+<!-- =========================
+  README.md — Asit Mondal
+  Modern • Animated • Professional
+  Paste into: github.com/mondalasit/mondalasit/README.md
+  ========================= -->
 
-<!--
-**mondalasit/mondalasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated typing header -->
+<div align="center">
+  <img alt="Typing" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&size=30&pause=1000&center=true&width=820&lines=Hi+there+%F0%9F%91%8B,+I'm+Asit+Mondal;Full-Stack+Developer+%7C+MERN+Stack+%7C+React+%2B+Node+%2B+Docker" />
+</div>
 
-Here are some ideas to get you started:
+<!-- Animated banner (inline SVG) -->
+<div align="center" style="margin-top:18px;">
+  <!-- Inline animated SVG banner. GitHub supports basic SVG animation attributes. -->
+  <svg width="820" height="160" viewBox="0 0 820 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Asit Mondal - Full Stack Developer">
+    <defs>
+      <linearGradient id="g1" x1="0%" x2="100%">
+        <stop offset="0%" stop-color="#6EE7B7">
+          <animate attributeName="stop-color" values="#6EE7B7;#60A5FA;#A78BFA;#FBCFE8;#6EE7B7" dur="8s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#60A5FA">
+          <animate attributeName="stop-color" values="#60A5FA;#A78BFA;#FBCFE8;#6EE7B7;#60A5FA" dur="8s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+      <filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
+        <feGaussianBlur stdDeviation="12" result="b"/>
+        <feBlend in="SourceGraphic" in2="b" mode="normal"/>
+      </filter>
+    </defs>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <!-- background rounded rect with gradient -->
+    <rect x="10" y="10" rx="18" ry="18" width="800" height="140" fill="url(#g1)" opacity="0.14" />
+
+    <!-- main content -->
+    <g font-family="Inter, Roboto, Arial, sans-serif">
+      <text x="40" y="62" fill="#0f172a" font-size="28" font-weight="700">Asit Mondal</text>
+      <text x="40" y="96" fill="#0f172a" font-size="16" font-weight="500">Full-Stack Developer • React.js • Node.js • MongoDB • Docker</text>
+
+      <!-- animated role chip -->
+      <rect x="40" y="108" rx="10" ry="10" width="240" height="28" fill="#0f172a" opacity="0.06"/>
+      <text x="50" y="127" fill="#0f172a" font-size="13">Building scalable web apps & AI-enabled features</text>
+
+      <!-- small animated dots -->
+      <g>
+        <circle cx="700" cy="52" r="6" fill="#fff" opacity="0.9">
+          <animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values="0.9;0.4;0.9" dur="2s" repeatCount="indefinite" />
+        </circle>
+        <circle cx="730" cy="92" r="5" fill="#fff" opacity="0.7">
+          <animate attributeName="r" values="5;9;5" dur="2.4s" repeatCount="indefinite" />
+          <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.4s" repeatCount="indefinite" />
+        </circle>
+      </g>
+    </g>
+  </svg>
+</div>
+
+---
+
+<div align="center" style="margin-top:14px;">
+  <!-- Social / Resume badges -->
+  <a href="https://my-portfolio-omega-orpin-90.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/asitmondal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:mondalasit973@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" /></a>
+  <!-- Resume link uses the local uploaded file path you provided -->
+  <a href="/mnt/data/Resume_Asit_Mondal_1year.pdf" target="_blank" title="Resume (PDF)"><img alt="Resume" src="https://img.shields.io/badge/Resume-PDF-4B86DB?style=for-the-badge&logo=adobeacrobat" /></a>
+</div>
+
+---
+
+## 🔭 About Me
+
+Full-Stack Developer focused on building **production-ready** MERN applications, containerized systems with Docker, and AI-assisted tools (Qdrant vector search). Details taken from my resume. :contentReference[oaicite:0]{index=0}
+
+---
+
+## ✨ Highlights
+
+- MERN stack production apps (E-commerce, RBAC, admin tooling)  
+- AI-powered internal-data search (Qdrant + Node + React)  
+- JWT-based authentication, audit logs, real-time updates  
+- Containerized deployments using Docker
+
+---
+
+## 🛠 Tech Stack & Tools
+
+<p align="left">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-FF4B4B?logo=qdrant&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+> Replace `PROJECT_LINK_HERE` with the repo URL you want to pin / link.
+
+- **MERN E-Commerce Platform** — Role-based access, JWT auth, real-time order tracking, admin & super-admin features.  
+  Repo: [github.com/USERNAME/MERN-Ecommerce](PROJECT_LINK_HERE) — *React, Node.js, MongoDB, Docker*
+
+- **AI Chatbot — Local Data Search** — Vector search (Qdrant) with secure local indexing; Chat-like UI.  
+  Repo: [github.com/USERNAME/ai-chatbot-local](PROJECT_LINK_HERE) — *React, Node.js, Qdrant*
+
+- **SkillMentor — E-learning Platform**  
+  Repo: [github.com/USERNAME/skillmentor](PROJECT_LINK_HERE) — *PHP, JavaScript*
+
+- **ZenCart — Node.js + MySQL E-commerce**  
+  Repo: [github.com/USERNAME/zencart](PROJECT_LINK_HERE) — *Node.js, MySQL*
+
+---
+
+## 📈 GitHub Stats & Activity
+
+<div align="center">
+  <!-- GitHub Readme Stats images (animated look via theme). These are remote images and auto-update. -->
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mondalasit&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondalasit&layout=compact&theme=radical&hide_border=true" height="160" />
+</div>
+
+<div align="center" style="margin-top:8px;">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=mondalasit&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🔗 Contact & Links
+
+<p align="left">
+  <a href="https://my-portfolio-omega-orpin-90.vercel.app/" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/asitmondal" target="_blank">LinkedIn</a> •
+  <a href="mailto:mondalasit973@gmail.com">Email</a> •
+  <a href="/mnt/data/Resume_Asit_Mondal_1year.pdf" target="_blank">Resume (PDF)</a>
+</p>
+
+---
+
+## ✅ How to finish setup (quick checklist)
+
+1. Create repository named exactly: `Asitmondal2002` (same as your GitHub username).  
+2. Paste this `README.md` into that repo's root.  
+3. Replace the `PROJECT_LINK_HERE` placeholders with your project repo links.  
+4. Optionally: upload a `banner.svg` to the repo and replace the inline SVG if you prefer an external image. (I used an inline SVG so no upload is required.)  
+5. Pin your top 6 repos in your profile (the projects above) for a clean first impression.
+
+---
+
+### Notes & sources
+Resume used to create the README content: `/mnt/data/Resume_Asit_Mondal_1year.pdf`. :contentReference[oaicite:1]{index=1}
+
+---
+
+**Want me to:**
+- Replace the inline SVG with a custom brand-color SVG containing your photo/icon? (I can generate and give you the file.)  
+- Fill in the exact project links, add repo descriptions, and produce the final pinned repo list for you?  
+
+If yes, I’ll produce them right away — I already have the resume details and can populate project-specific blurbs and badges.
