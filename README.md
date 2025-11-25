@@ -76,11 +76,11 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 
 ## 📌 Featured Projects
 
-- **MERN E-Commerce Platform** — Role-based access, JWT auth, real-time order tracking, admin & super-admin features.  
-  Repo: [github.com/USERNAME/MERN-Ecommerce](PROJECT_LINK_HERE) — *React, Node.js, MongoDB, Docker*
+- **Nexio — Social Media Platform** with JWT auth, friend requests, posts with images, likes, comments, and real-time updates.
+Repo: github.com/mondalasit/nexio — React, Node.js, MongoDB, Docker
 
 - **AI Chatbot — Local Data Search** — Vector search (Qdrant) with secure local indexing; Chat-like UI.  
-  Repo: [github.com/USERNAME/ai-chatbot-local](PROJECT_LINK_HERE) — *React, Node.js, Qdrant*
+  Repo: [github.com/USERNAME/ai-chatbot-local](https://github.com/mondalasit/nexio.git) — *React, Node.js, Qdrant*
 
 - **SkillMentor — E-learning Platform**  
   Repo: [github.com/USERNAME/skillmentor](PROJECT_LINK_HERE) — *PHP, JavaScript*
