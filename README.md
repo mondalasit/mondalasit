@@ -79,8 +79,8 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 - **Nexio — Social Media Platform** with JWT auth, friend requests, posts with images, likes, comments, and real-time updates.
 Repo: [github.com/mondalasit/nexio](https://github.com/mondalasit/nexio.git) — React, Node.js, MongoDB, Docker
 
-- **AI Chatbot — Local Data Search** — Vector search (Qdrant) with secure local indexing; Chat-like UI.  
-  Repo: [github.com/USERNAME/ai-chatbot-local](PROJECT_LINK_HERE) — *React, Node.js, Qdrant*
+- **React Atlas-** — React Atlas is a developer intelligence platform for React applications.  
+  Repo: [github.com/mondalasit/react-atlas](https://github.com/mondalasit/react-atlas.git) — *React, Node.js, Qdrant*
 
 - **SkillMentor — E-learning Platform**  
   Repo: [github.com/USERNAME/skillmentor](PROJECT_LINK_HERE) — *PHP, JavaScript*
