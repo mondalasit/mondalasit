@@ -77,7 +77,7 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 ## 📌 Featured Projects
 
 - **Nexio — Social Media Platform** with JWT auth, friend requests, posts with images, likes, comments, and real-time updates.
-   Repo: [github.com/mondalasit/nexio](https://github.com/mondalasit/nexio.git) — React, Node.js, MongoDB, Docker
+  Repo: [github.com/mondalasit/nexio](https://github.com/mondalasit/nexio.git) — React, Node.js, MongoDB, Docker
 
 - **React Atlas-** — React Atlas is a developer intelligence platform for React applications.  
   Repo: [github.com/mondalasit/react-atlas](https://github.com/mondalasit/react-atlas.git) — *React, Next.js, Express.js*
