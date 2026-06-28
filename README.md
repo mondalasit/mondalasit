@@ -80,7 +80,7 @@ Full-Stack Developer focused on building **production-ready** MERN applications,
 Repo: [github.com/mondalasit/nexio](https://github.com/mondalasit/nexio.git) — React, Node.js, MongoDB, Docker
 
 - **React Atlas-** — React Atlas is a developer intelligence platform for React applications.  
-  Repo: [github.com/mondalasit/react-atlas](https://github.com/mondalasit/react-atlas.git) — *React, Node.js, Qdrant*
+  Repo: [github.com/mondalasit/react-atlas](https://github.com/mondalasit/react-atlas.git) — *React, Next.js, Express.js*
 
 - **SkillMentor — E-learning Platform**  
   Repo: [github.com/USERNAME/skillmentor](PROJECT_LINK_HERE) — *PHP, JavaScript*
